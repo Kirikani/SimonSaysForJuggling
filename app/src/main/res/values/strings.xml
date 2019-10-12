@@ -1,0 +1,18 @@
+<resources>
+    <array name="skills">
+        <item name="cascade">カスケード</item>
+        <item name="shower">シャワー</item>
+        <item name="halfshower">ハーフシャワー</item>
+        <item name="pirouette">ピルエット</item>
+    </array>
+    <string name="app_name">SimonSays</string>
+    <string name="casakde">カスケード</string>
+    <string name="halfshower">ハーフシャワー</string>
+    <string name="shower">シャワー</string>
+    <string name="pirouette">ピルエット</string>
+    <string name="gogame">スタート</string>
+    <string name="setting">設定</string>
+    <string name="back">戻る</string>
+    <string name="delete">技の削除</string>
+    <string name="addition">技の追加</string>
+   </resources>
